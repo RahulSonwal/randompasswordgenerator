@@ -75,14 +75,14 @@ body {
     html {
         font-size: 50%;
     }
+
+    .input-box {
+        flex-direction: column;
+    }
 }
 
 @media(max-width: 444px) {
     html {
         font-size: 45%;
-    }
-
-    .input-box {
-        flex-direction: column;
     }
 }
