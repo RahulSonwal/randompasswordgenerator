@@ -81,4 +81,8 @@ body {
     html {
         font-size: 45%;
     }
+
+    .input-box {
+        flex-direction: column;
+    }
 }
