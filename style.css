@@ -79,6 +79,10 @@ body {
     .input-box {
         flex-direction: column;
     }
+
+    .container {
+        padding: 0;
+    }
 }
 
 @media(max-width: 444px) {
